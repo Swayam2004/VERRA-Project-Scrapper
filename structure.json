@@ -1,0 +1,46 @@
+{
+    "project": {
+      "id": "5401",
+      "title": "Regenerating Landscapes: Smallholder Farmers Agroforestry Initiative in Tamil Nadu, India",
+      "description": "The project aims to restore and revitalize 20,000 hectares of degraded agricultural land...",
+      "summary": {
+        "state": "Tamil Nadu",
+        "vcs": {
+          "proponent": "Multiple Proponents",
+          "status": "Under development",
+          "estimatedAnnualEmissionReductions": 424726,
+          "projectType": "Agriculture Forestry and Other Land Use",
+          "afoluActivity": "ARR",
+          "methodology": "VM0047",
+          "area": {
+              "value": 20000,
+              "unit": "Hectares"
+          },
+          "creditingPeriod": {
+              "term": "1st",
+              "startDate": "2024-12-19",
+              "endDate": "2058-12-18"
+          }
+        }
+      },
+  
+      "documents": {
+        "pipeline": [
+          {
+            "name": "VCS PD DRAFT _5401 _26122024.pdf",
+            "url": "https://registry.verra.org/mymodule/ProjectDoc/Project_ViewFile.asp?FileID=125128",
+            "dateUpdated": "2024-12-26"
+          }
+        ],
+        "registration": [],
+        "issuance": [],
+        "other": [
+          {
+            "name": "Verra-Registry-Communications-Agreement-multiple-PPs_5401_v1_signed by all.pdf",
+            "url": "https://registry.verra.org/mymodule/ProjectDoc/Project_ViewFile.asp?FileID=126055",
+            "dateUpdated": "2025-01-15"
+          }
+        ]
+      }
+    }
+  }
